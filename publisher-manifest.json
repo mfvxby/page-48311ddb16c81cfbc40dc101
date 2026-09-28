@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f329d1c792a5298f1b99ae68",
+  "owner": "mfvxby",
+  "repo": "page-48311ddb16c81cfbc40dc101",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "48311ddb16c81cfbc40dc101",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "373028215aa0780fca45815073830b61bb563c14f296e5ba4866ba5d0fe15123",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供优质网络加速器服务，多种套餐供您选择，助力稳定高速上网。立即下载客户端体验。",
+          "AI_DESCRIPTION": "44F网络提供优质网络加速器服务，多种套餐供您选择，助力稳定高速上网。立即下载客户端体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deepblue: #0A1628;\n            --cyan: #00B8D4;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: #f8f9fa;\n            color: #333;\n            line-height: 1.6;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: var(--deepblue);\n            text-align: center;\n            padding: 2rem 0 1rem;\n            margin: 0;\n        }\n        nav {\n            background: var(--deepblue);\n            padding: 1rem 0;\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav a {\n            color: white;\n            text-decoration: none;\n            margin: 0 1.5rem;\n            font-weight: 500;\n            transition: opacity 0.3s;\n        }\n        nav a:hover {\n            opacity: 0.8;\n        }\n        section {\n            padding: 2.5rem 1rem;\n        }\n        .flex {\n            display: flex;\n            gap: 2rem;\n            flex-wrap: wrap;\n            align-items: center;\n        }\n        .flex > div {\n            flex: 1;\n            min-width: 280px;\n        }\n        h2 {\n            color: var(--cyan);\n            font-size: 1.8rem;\n            margin-bottom: 1rem;\n        }\n        p {\n            font-size: 1.05rem;\n            margin-bottom: 1.25rem;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .card {\n            background: white;\n            border-radius: 12px;\n            padding: 1.75rem;\n            box-shadow: 0 5px 15px rgba(10, 22, 40, 0.08);\n            transition: transform 0.3s, box-shadow 0.3s;\n        }\n        .card:hover {\n            transform: translateY(-6px);\n            box-shadow: 0 8px 25px rgba(10, 22, 40, 0.12);\n        }\n        .card.blue {\n            background: var(--deepblue);\n            color: white;\n        }\n        .card.blue h3 {\n            color: white;\n        }\n        details {\n            background: white;\n            margin-bottom: 1rem;\n            border-radius: 8px;\n            overflow: hidden;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.06);\n        }\n        summary {\n            padding: 1.25rem;\n            font-weight: 600;\n            cursor: pointer;\n            background: #f8f9fa;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        summary:hover {\n            background: #f0f0f0;\n        }\n        .faq-content {\n            padding: 0 1.25rem 1.25rem;\n            color: #555;\n        }\n        @media (max-width: 768px) {\n            .flex, .plans-grid {\n                flex-direction: column;\n            }\n            h1 {\n                font-size: 2.2rem;\n            }\n            nav a {\n                margin: 0 1rem;\n            }\n        }\n    </style>\n\n\n    <main>\n        <nav>\n            <a href=\"#home\">首页</a>\n            <a href=\"#plans\">套餐</a>\n            <a href=\"#faq\">FAQ</a>\n            <a href=\"#clients\">合作伙伴</a>\n        </nav>\n        <h1>44F网络</h1>\n        <section id=\"home\">\n            <h2>欢迎来到 44F网络</h2>\n            <p>44F网络是一款专业级的网络加速器，致力于为用户提供便捷高效的网络加速解决方案。</p>\n            <p>无论是在家办公、在线娱乐还是跨境访问，都能获得稳定支持。</p>\n        </section>\n        <section id=\"intro\" class=\"flex\">\n            <div>\n                <h2>品牌简介</h2>\n                <p>44F网络提供多种套餐供您选择，满足不同使用场景的需求。</p>\n            </div>\n            <div>\n                <h2>使用场景</h2>\n                <p>适用于流媒体解锁、在线游戏加速、企业网络优化等场景。</p>\n            </div>\n        </section>\n        <section id=\"operation\">\n            <h2>操作说明</h2>\n            <ol>\n                <li>选择适合您的套餐</li>\n                <li>完成订阅支付</li>\n                <li>下载并安装客户端</li>\n                <li>连接至可用节点</li>\n            </ol>\n        </section>\n        <section id=\"plans\" class=\"flex\">\n            <div>\n                <h2>套餐对比</h2>\n                <p>根据您的需求灵活选择最适合的方案。</p>\n            </div>\n            <div>\n                {{PLANS_HTML}}\n            </div>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>如何选择适合我的套餐？</summary>\n                <div class=\"faq-content\">\n                    <p>根据您的设备数量和所需流量需求选择基础版、旗舰版或团队版。</p>\n                </div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"faq-content\">\n                    <p>支持多台设备同时在线，具体以套餐为准。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <div class=\"faq-content\">\n                    <p>使用对应套餐提供的节点即可解锁。</p>\n                </div>\n            </details>\n            <details>\n                <summary>支持年付节省吗？</summary>\n                <div class=\"faq-content\">\n                    <p>是的，按年付仅需指定金额，节省更多。</p>\n                </div>\n            </details>\n            <details>\n                <summary>客服支持如何？</summary>\n                <div class=\"faq-content\">\n                    <p>提供7x24工单支持，快速响应。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何获取最新节点？</summary>\n                <div class=\"faq-content\">\n                    <p>在客户端内自动更新或联系客服获取。</p>\n                </div>\n            </details>\n        </section>\n        <section id=\"clients\">\n            {{CLIENTS_HTML}}\n        </section>\n        <section>\n            <h2>立即开始使用</h2>\n            <p>下载客户端，开启您的加速之旅。</p>\n        </section>\n    </main>\n\n",
+          "hash": "a0f4a3d5afb840e118babfa253c12e0395bf460f05bac2fdfe7a861dec866d11",
+          "seo": {
+            "title": "44F网络 - 稳定高速VPN加速器客户端下载 | 官网",
+            "keywords": "44F网络, VPN加速器, 网络加速, 客户端下载, 官网",
+            "description": "44F网络提供优质网络加速器服务，多种套餐供您选择，助力稳定高速上网。立即下载客户端体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "miaotk.cn",
+    "host": "b.miaotk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "miaotk.cn",
+      "url": "https://miaotk.cn/",
+      "label": "少数派",
+      "apex": "miaotk.cn",
+      "kind": null,
+      "identity": "bfyahuuga/page-bbdd0c35152c7a4436e430fb"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9cb9559051ad7264e69fe71073d8228afdbafef6fe4ac7041e56fe8997ce253b",
+    "sitemap.xml": "1aa539a973f9926b068fca4b6b9818786d421ed95a5f699535960c5fa2f6fa68",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fc9f30fd0321b04f2080b155a30a1c98720ba8106c9135b78c74cca63ecad9ee",
+    "robots.txt": "7b2386bc4c6943bb21db966a136beebe748fb3c971957b75e78543583db35bd9",
+    "796906e0c5219b17c410451dbb6c73a9.txt": "259cae933f0e5a9e330c07e54e4927760c1e5730e50847dcda1c391b5f4384d6"
+  },
+  "revision": "5a693dd0bbc37fb2f170cd07ea8a83c503ef1fa252c16cf38290bc207edb0670"
+}
